@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"yzhang.markdown-all-in-one",
+			"streetsidesoftware.code-spell-checker",
+			"bierner.emojisense"
+		]
+	}
+}

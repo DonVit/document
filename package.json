@@ -1,0 +1,15 @@
+{
+  "name": "document",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gen-pdf": "node node_modules/markdown-pdf/bin/markdown-pdf README.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "markdown-pdf": "^10.0.0"
+  }
+}
